@@ -186,6 +186,8 @@
 - [Web Dev Book](https://codingspecies.github.io/webdevbook/)
 - [web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 - [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [mattjegan- awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
+- [acmvb- Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
 
 ## CLI Tools
 
